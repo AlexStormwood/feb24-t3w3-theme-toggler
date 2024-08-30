@@ -1,0 +1,22 @@
+:root {
+	--backgroundColour: darkgrey;
+	--fontColour: white;
+
+}
+
+
+body {
+	background-color: var(--backgroundColour);
+	color: var(--fontColour);
+}
+
+/* 
+Example JS
+
+body.style.backgroundColor = "blue";
+
+
+document.style.someVariable = "blue";
+
+
+*/
